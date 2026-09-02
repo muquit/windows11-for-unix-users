@@ -12,7 +12,7 @@ repeating the same trial and error. I hope you find them useful as well.
 
 This document covers the following:
 
-* A usable Bash shell with @GITBASH@
+* A usable bash shell with @GITBASH@
 * ssh access to Windows
 * An Ubuntu environment with WSL 2, also reachable over ssh
 * Docker and Podman

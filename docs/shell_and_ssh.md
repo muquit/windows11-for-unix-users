@@ -2,7 +2,7 @@
 
 ## git bash
 
-Install @GITBASH@. It gives you Bash, Git, ssh and many familiar Unix
+Install @GITBASH@. It gives you bash, git, ssh and many familiar Unix
 commands. This alone makes Windows much more usable for me.
 
 Git Bash is not a complete Linux environment. Use WSL 2 when you need one.
@@ -51,10 +51,10 @@ Restart-Service sshd
 ```
 
 Adjust the path if Git Bash is installed elsewhere. Log in again and you
-should get Bash instead of Command Prompt.
+should get bash instead of Command Prompt.
 
 This setting affects every OpenSSH login to the Windows host. You can still
-run `cmd.exe` or `powershell.exe` from Bash. To restore the default, use:
+run `cmd.exe` or `powershell.exe` from bash. To restore the default, use:
 
 ```powershell
 Remove-ItemProperty -Path "HKLM:\SOFTWARE\OpenSSH" -Name DefaultShell
