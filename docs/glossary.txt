@@ -1,0 +1,4 @@
+REMMINA [Remmina](https://remmina.org/)
+GITBASH [Git Bash](https://git-scm.com/install/windows)
+MINGW64 [mingw-w64](https://www.mingw-w64.org/)
+VISUAL_STUDIO [MS Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/)
